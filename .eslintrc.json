@@ -24,6 +24,7 @@
     }
   ],
   "settings": {
+    "json/json-with-comments-files": [],
     "tailwindcss": {
       "config": "./tailwind.config.cjs"
     },
